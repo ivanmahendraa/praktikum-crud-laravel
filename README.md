@@ -1,2 +1,2 @@
-Pemrograman Berorientasi Objek
-Praktikun Laravel CRUD
+" PEMROGRAMAN BERORIENTASI OBJEK "
+Praktikum Laravel CRUD
